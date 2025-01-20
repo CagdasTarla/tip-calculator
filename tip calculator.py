@@ -1,4 +1,4 @@
-print("Welcome to the motherfucking tip calculator")
+print("Welcome to the tip calculator")
 total = float(input("What is the total bill?\n"))
 tip_perc = int(input("What percentage of tip would tou like to give?\n"))
 count_people = int(input("How many people will split the bill?\n"))
